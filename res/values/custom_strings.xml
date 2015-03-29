@@ -45,4 +45,5 @@
     <string name="night_bright_low">Low brightness</string>
     <string name="night_bright_medium">Medium brightness</string>
 
+    <string name="screenshot_shutter_sound_title">Screenshot shutter sound</string>
 </resources>
