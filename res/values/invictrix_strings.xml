@@ -22,6 +22,10 @@
     <string name="custom_settings">Armory</string>
     <string name="custom_settings_summary">ROM Customization</string>
 
+    <!-- Scramble PIN layout when unlocking -->
+    <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
+    <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
+
     <!-- Screen off animation -->
     <string name="screen_off_animation_title">Screen off animation</string>
     <string name="screen_off_animation_default">Default</string>
